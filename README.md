@@ -102,6 +102,10 @@ Key findings from the dashboard include:
 
 ---
 
+
+![Screenshot (131)](https://github.com/user-attachments/assets/76105e38-c9dc-44c7-bcef-9b03d2a580e3)
+
+
 ## 🚀 Conclusion
 This project demonstrates that **Power BI goes beyond dashboards** — it helps uncover hidden insights from customer data, empowers businesses to personalize strategies, and drives smarter decision-making.  
 
