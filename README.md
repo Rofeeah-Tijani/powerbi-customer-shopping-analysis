@@ -12,7 +12,7 @@ By transforming raw sales data into interactive dashboards, the project demonstr
 ---
 
 ## ❗ Problem Statement
-Retail businesses often struggle to:  
+Retail businesses often struggle to:     
 - Identify **which customer segments** drive the most revenue.  
 - Understand **which product categories** perform best across demographics.  
 - Track **seasonal and location-based trends** in sales.  
